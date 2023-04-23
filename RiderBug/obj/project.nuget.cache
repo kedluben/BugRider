@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9hNc39WE544OPLJodizu4X3AFWx2i6lc+oKoxTF3gb4hgi9iENwWKY8j/4FM22qMMw4MeIomCa9XYNje6+7uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaras\\Documents\\Work\\_repos_cloud\\_Productivity\\RiderBug\\RiderBug\\RiderBug.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.113/api/v4/groups/227/-/packages/nuget/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
